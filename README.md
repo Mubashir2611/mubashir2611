@@ -37,8 +37,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mubashir26"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mubashir26" /></a></p><br><br>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir2611&show_icons=true&locale=en&layout=compact" alt="mubashir2611" /> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashir2611&show_icons=true&locale=en" alt="mubashir2611" /></p>
+  <br><p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir2611&show_icons=true&locale=en&layout=compact" alt="mubashir2611" /> 
+  <br> <br> <br> <br><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashir2611&show_icons=true&locale=en" alt="mubashir2611" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir2611&" alt="mubashir2611" /></p>
 
