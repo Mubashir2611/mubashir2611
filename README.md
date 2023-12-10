@@ -35,7 +35,7 @@
 [![Mubashir2611's GitHub | Stats](https://stats.quine.sh/Mubashir2611/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mubashir2611)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mubashir26"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mubashir26" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Mubashir26"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mubashir26" /></a></p><br><br>
 
   <br><p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir2611&show_icons=true&locale=en&layout=compact" alt="mubashir2611" /> 
   <br> <br> <br> <br><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashir2611&show_icons=true&locale=en" alt="mubashir2611" /></p>
