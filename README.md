@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mubashir </h1>
+<h1 align="center">Hi 👋, I'm Muberser </h1>
 <h3 align="center">A passionate Full-Stack developer, Open source contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir2611&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir2611" /> </p>
