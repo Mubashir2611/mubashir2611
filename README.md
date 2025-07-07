@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Web Dev, Android Dev, Data Science, Block Chain**
+- 🌱 I’m currently learning **Web Dev, ML, NLP**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hussainmubashir445@gmail.com**
 
-- ⚡ Fun fact **Loving Chess**
+- ⚡ Fun fact **Playing Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
