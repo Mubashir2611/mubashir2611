@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 ```javascript
-const mubashir = {
+const muberser = {
     pronouns: "He/Him",
     location: "India",
     currentFocus: "Full-Stack Development & Open Source",
