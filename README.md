@@ -43,15 +43,6 @@ const muberser = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="197px" width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashir2611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mubashir's GitHub Stats" />
-<img height="49%" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir2611&theme=tokyonight&hide_border=true" alt="Mubashir's Streak Stats" />
-
-</div>
-
 ## 🔗 Let's Connect
 
 <div align="center">
